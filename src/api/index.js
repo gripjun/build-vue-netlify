@@ -32,7 +32,7 @@ async function fetchList(pageName) {
     } catch (error) {
         console.log(error);
     }
-    
+     
 }
 
 function fetchUserInfo(username) {
